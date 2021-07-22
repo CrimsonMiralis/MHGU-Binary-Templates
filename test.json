@@ -1,6 +1,6 @@
 {
     "Event": {
-        "enable": "false",
+        "enable": "true",
         "nsoReplace": "dat\\stage\\nso1594.pac",
         "nsoNew": "dat\\stage\\cmj0000.pac",
         "musReplace": "dat\\sound\\mus\\s_mhf_ce_object.mus",
